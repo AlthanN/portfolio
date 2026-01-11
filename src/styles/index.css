@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* All of this is temporary and can be removed when doing tailwind
+
+Update: Removed by Arshiya
+ */
+html {
+    scroll-behavior: smooth;
+    /* Important for correct mapping */
+    scroll-padding-top: 5rem;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+}
