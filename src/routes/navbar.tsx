@@ -64,17 +64,17 @@ export default function Navbar() {
       </a>
       <nav className="flex gap-x-12 text-xl font-bold">
         <a 
-          href="#about" 
-          className="group relative transition-all duration-300 ease-[cubic-bezier(0.4,0,0.2,1)] hover:text-[#305252] hover:-translate-y-2 active:translate-y-0"
-        >
-          About
-          <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-[#305252] transition-all duration-400 ease-[cubic-bezier(0.4,0,0.2,1)] group-hover:w-full" />
-        </a>
-        <a 
           href="#experience" 
           className="group relative transition-all duration-300 ease-[cubic-bezier(0.4,0,0.2,1)] hover:text-[#305252] hover:-translate-y-2 active:translate-y-0"
         >
           Experience
+          <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-[#305252] transition-all duration-400 ease-[cubic-bezier(0.4,0,0.2,1)] group-hover:w-full" />
+        </a>
+        <a 
+          href="#skills" 
+          className="group relative transition-all duration-300 ease-[cubic-bezier(0.4,0,0.2,1)] hover:text-[#305252] hover:-translate-y-2 active:translate-y-0"
+        >
+          Skills
           <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-[#305252] transition-all duration-400 ease-[cubic-bezier(0.4,0,0.2,1)] group-hover:w-full" />
         </a>
         <a 

@@ -1,29 +1,11 @@
 // src/routes/about.tsx
 import { motion } from "framer-motion";
-export default function AboutSection() {
+export default function Skills() {
   return (
     <section
       id="about"
-      className="bg-white text-[#2d2d2d] min-h-screen px-6 py-16"
+      className="text-[#2d2d2d] min-h-screen px-6 py-16"
     >
-      <h2 className="text-5xl font-semibold text-center mb-12">About Me</h2>
-      <div className="flex flex-col md:flex-row items-center gap-8 max-w-6xl mx-auto">
-        {/* Bio box - padding to left*/}
-        <motion.div className="bg-[#f5f1f1] p-6 md:p-8  max-w-xl text-left font-mono text-sm shadow-md ml-18">
-          <p>
-            I am Althan Nguyen, a Computer Science Major at the University of
-            Massachusetts Amherst. I am passionate on making a difference and
-            use technology and innovation as tools for meaningful, positive
-            change
-          </p>
-        </motion.div>
-
-        <motion.img
-          src="/codeLogo.png"
-          alt="profile"
-          className="w-72 h-auto rounded-md shadow-md"
-        />
-      </div>
 
       {/* Skills Section */}
       <h3 className="text-5xl font-semibold text-center mb-12 mt-20">Skills</h3>
