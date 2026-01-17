@@ -42,6 +42,23 @@ const Projects: React.FC = () => {
       githubUrl: "https://github.com/AlthanN/Poker-Tracks",
       liveUrl: "https://poker-tracks.vercel.app/",
     },
+    {
+      id: 4,
+      title: "Pokemon Database System",
+      description: "A backend project that parses through pokemon rest API to store data into a SQL server, and find specific pokemon information ",
+      technologies: ["Python", "SQL", "Pandas", ],
+      image: "/projImage/pokemon.png",
+      githubUrl: "https://github.com/AlthanN/pokemonDatabase"
+    },
+    {
+      id: 5,
+      title: "Personal Portfolio Website",
+      description: "My personal portfolio website that I modified and designed from a template I worked on with CodeCollab",
+      technologies: ["React", "Tailwind CSS", "TypeScript", "Tanstack Router"],
+      image: "/projImage/portfolio.png",
+      githubUrl: "https://github.com/AlthanN/portfolio",
+      liveUrl: "",
+    }
     
   ];
 
