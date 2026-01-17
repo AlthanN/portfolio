@@ -54,7 +54,7 @@ const Projects: React.FC = () => {
       id: 5,
       title: "Personal Portfolio Website",
       description: "My personal portfolio website that I modified and designed from a template I worked on with CodeCollab",
-      technologies: ["React", "Tailwind CSS", "TypeScript", "Tanstack Router"],
+      technologies: ["React", "Tailwind CSS", "TypeScript"],
       image: "/projImage/portfolio.png",
       githubUrl: "https://github.com/AlthanN/portfolio",
       liveUrl: "",
