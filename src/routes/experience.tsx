@@ -7,8 +7,7 @@ const experienceData = [
     period: "January 2026–Present",
     responsibilities: [
       "Provides academic assistance to a class with over 200+ students, teaching fundamentals of C, system design, assembly, and operating systems",
-      "Underwent project-based learning with Angular using HTML, CSS, and Typescript",
-      "Met weekly with 6 interns and 2 mentors to discuss and implement feedback"
+      "Led weekly discussion sessions with 20+ students",
     ]
   },
   {
