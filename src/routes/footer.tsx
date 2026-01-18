@@ -54,9 +54,9 @@ const Footer: React.FC = () => {
           <div className="inline-flex items-center bg-white rounded-full px-6 py-3 shadow-lg mb-4">
             <FiMail className="w-6 h-6 text-[#305252] mr-3" />
             <span className="text-gray-800 font-medium">althannguyen0910@gmail.com</span>
-            
           </div>
         </div>
+
 
         {/* Copyright */}
         <div className="text-center">
