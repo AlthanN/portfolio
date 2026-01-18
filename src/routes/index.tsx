@@ -1,6 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { Typewriter } from "react-simple-typewriter";
-import AboutSection from "../routes/about";
 import ProjectsSection from "../routes/project";
 import ExperienceSection from "../routes/experience";
 import InteractiveBackground from "../interactivebackground";
