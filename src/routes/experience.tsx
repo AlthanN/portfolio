@@ -6,8 +6,9 @@ const experienceData = [
     title: "Undergraduate Course Assistant",
     period: "January 2026–Present",
     responsibilities: [
-      "Provides academic assistance to a class with over 200+ students, teaching fundamentals of C, system design, assembly, and operating systems",
-      "Led weekly discussion sessions with 20+ students",
+      "Provides academic assistance to a class with over 100+ students, teaching fundamentals of C, assembly, and system design",
+      "Led weekly discussion sessions and graded work in a timely manner",
+      "Communicated with professors and peers to ensure a smooth learning environment"
     ]
   },
   {
