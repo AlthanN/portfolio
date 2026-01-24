@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-6xl">
         <div className="text-center mb-6">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-            Connect With <span className="text-[#305252]">Me!</span>
+            Connect with <span className="text-[#305252]">me!</span>
           </h1>
           <p className="text-gray-600 max-w-2xl mx-auto">
             Feel free to reach out!

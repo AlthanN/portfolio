@@ -98,12 +98,12 @@ const Projects: React.FC = () => {
   }, []);
 
   return (
-    <section id="projects" className="py-16 md:py-20 bg-gradient-to-b bg-[#c4d4d4]">
+    <section id="projects" className="py-16 md:py-20 bg-gradient-to-b bg-[#a7d3cd]">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
         {/* Section Header */}
         <div className="text-center mb-12 md:mb-16">
-          <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-3 md:mb-4">
-            <span className="text-[#305252]">Projects</span>
+          <h2 className="text-5xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-3 md:mb-4">
+            <span className="text-black">Projects</span>
           </h2>
           
           <div className="w-20 h  -1 bg-[#305252] mx-auto mt-4 md:mt-6"></div>
@@ -140,7 +140,7 @@ const Projects: React.FC = () => {
                   }}
                 />
                 {/* Gradient Overlay */}
-                <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-60"></div>
+                <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-80"></div>
                 
                 {/* Project Title on Image */}
                 <div className="absolute bottom-4 left-4 right-4">

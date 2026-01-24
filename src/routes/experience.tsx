@@ -38,7 +38,7 @@ export default function ExperienceSection() {
   return (
     <section
       id="experience"
-      className="bg-[#c4d4d4] max-h-100vh py-16 mb-12 px-4 sm:px-6 lg:px-8"
+      className="bg-[#a7d3cd] max-h-100vh py-16 mb-12 px-4 sm:px-6 lg:px-8"
     >
       <h2 className="text-3xl sm:text-4xl font-bold text-center mx-auto mb-12 text-[#2d2d2d]">
         My Experience
