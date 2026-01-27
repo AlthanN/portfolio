@@ -38,11 +38,11 @@ export default function ExperienceSection() {
   return (
     <section
       id="experience"
-      className="bg-[#a7d3cd] max-h-100vh py-16 mb-12 px-4 sm:px-6 lg:px-8"
+      className="bg-[#a7d3cd] min-h-screen py-16 px-4 sm:px-6 lg:px-8 relative z-10"
     >
       <h2 className="text-3xl sm:text-4xl font-bold text-center mx-auto mb-12 text-[#2d2d2d]">
         My Experience
-      </h2>
+      </h2> 
       <div className="grid grid-cols-1 gap-8 max-w-6xl mx-auto">
         {experienceData.map((experience) => (
           <motion.div

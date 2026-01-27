@@ -7,7 +7,7 @@ Update: Removed by Arshiya
 html {
     scroll-behavior: smooth;
     /* Important for correct mapping */
-    scroll-padding-top: 5rem;
+    scroll-padding-top: 0;
 }
 
 body {

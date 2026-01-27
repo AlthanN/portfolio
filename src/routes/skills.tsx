@@ -35,7 +35,7 @@ export default function Skills() {
               stiffness: 100,
               damping: 10,
             }}
-            className="group bg-[#f5f1f1] hover:bg-[#a7d3cd] transition-colors duration-300 p-4 rounded-xl border border-[#000000] shadow-md flex flex-col items-center text-center"
+            className="group bg-[#f5f7fa] hover:bg-[#a7d3cd] transition-colors duration-300 p-4 rounded-xl border border-[#000000] shadow-md flex flex-col items-center text-center"
           >
             <img
               src={skill.logo}

@@ -67,7 +67,11 @@ function RouteComponentMainPage() {
           </div>
         </div>
         </motion.div>
-        
+        <div className="mt-24">
+          <a href="#experience" className="animate-bounce text-3xl text-[#305252]">
+            ↓
+          </a>
+        </div>
 
       </section>
 
