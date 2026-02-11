@@ -16,9 +16,9 @@ const experienceData = [
     title: "Software Engineer @ UMass CodeCollab",
     period: "May 2025-Present",
     responsibilities: [
-      "Developed an interactive, visually polished website template using Tailwind CSS with React",
-      "Collaborated with a team of 5 in weekly meetings to brainstorm, plan, and implement new features",
-      "Designed a reusable portfolio project template, enabling users to fork and customize their own website, deployed on Vercel"
+      "Designed an AI ChatBot catered to help students on their educational journey through college, with a streamlit frontend and a fastAPI backend, utilizing Gemini API for API calls",
+      "Developed a personal portfolio website using React and Tailwind CSS for students to use as a template, deployed on Vercel",
+      " Attended weekly meetings to discuss feedback, progress, and new features for current and upcoming projects"
     ]
   },
   {
