@@ -59,7 +59,7 @@ function RouteComponentMainPage() {
           </p>
           <div className="text-center mt-8">
           <div className="mb-4">
-            <a href="/resume.pdf" rel="noopener noreferrer" target="_blank" className="px-6 py-3 bg-[#b7d5d4]/20 text-[#305252] rounded-lg
+            <a href="/althan-resume.pdf" rel="noopener noreferrer" target="_blank" className="px-6 py-3 bg-[#b7d5d4]/20 text-[#305252] rounded-lg
                                text-s md:text-sm font-medium border border-[#b7d5d4]/40
                                hover:bg-[#b7d5d4]/50 transition-colors duration-200
                                "
