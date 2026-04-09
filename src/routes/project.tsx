@@ -121,7 +121,7 @@ const Projects: React.FC = () => {
               className={`
                 group relative bg-white rounded-2xl overflow-hidden
                 shadow-lg hover:shadow-2xl transition-all duration-500
-                border border-gray-100 hover:border-[#b7d5d4]
+                border border-black hover:border-[#b7d5d4]
                 ${visibleProjects.includes(project.id) 
                   ? 'opacity-100 translate-y-0' 
                   : 'opacity-0 translate-y-8'
